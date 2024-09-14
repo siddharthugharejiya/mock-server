@@ -8,6 +8,94 @@
       }
     ],
     "product": [
+      
+        {
+          "id": "product1",
+          "title": "Pigeon FAVOURITE Electric Kettle (1.5 L, Silver, Black)",
+          "price": 625,
+          "description": "This electric kettle from Pigeon will soon become a traveler’s best friend...",
+          "category": "Home & Kitchen",
+          "image": "https://rukminim1.flixcart.com/image/150/150/kapoo7k0/electric-kettle/p/6/s/pigeon-favourite-original-imafs7xhj5uwgrh4.jpeg?q=70",
+          "rating": {
+            "rate": 4.5,
+            "count": 120
+          }
+        },
+        {
+          "id": "product2",
+          "title": "Flipkart SmartBuy Sandwich 01 Grill (Black)",
+          "price": 899,
+          "description": "This non-stick sandwich toaster is easy to use...",
+          "category": "Sandwich Makers",
+          "image": "https://rukminim1.flixcart.com/image/416/416/kl6wx3k0/sandwich-maker/8/r/d/sandwich-01-flipkart-smartbuy-original-imagydds4zthxt8z.jpeg?q=70",
+          "rating": {
+            "rate": 4.2,
+            "count": 80
+          }
+        },
+        {
+          "id": "product3",
+          "title": "AJRO DEAL New Adjustable Single Resistance Tube (Multicolor)",
+          "price": 166,
+          "description": "This product can tone your back muscles, reduce belly fat...",
+          "category": "Fitness Gear",
+          "image": "https://rukminim1.flixcart.com/image/150/150/kohigsw0/resistance-tube/c/s/e/new-adjustable-single-resistance-tube-multicolor-na-ajro-deal-original-imag2xg88mhmwxz5.jpeg?q=70",
+          "rating": {
+            "rate": 4.0,
+            "count": 60
+          }
+        },
+        {
+          "id": "product4",
+          "title": "Molife Sense 500 Smartwatch (Black Strap, Freesize)",
+          "price": 4049,
+          "description": "The Molife Sense 500, a brilliant smartwatch...",
+          "category": "Smart Watches",
+          "image": "https://rukminim1.flixcart.com/image/300/300/kll7bm80/smartwatch/c/1/n/43-mo-sw-sense-500-android-ios-molife-original-imagyzyycnpujyjh.jpeg?q=70",
+          "rating": {
+            "rate": 4.6,
+            "count": 200
+          }
+        },
+        {
+          "id": "product5",
+          "title": "Nova Professional NHP 8220 Hair Dryer (1800 W, Multicolor)",
+          "price": 1124,
+          "description": "",
+          "category": "Trimmers, Dryers & more",
+          "image": "https://rukminim1.flixcart.com/image/416/416/k3uhhu80/hair-dryer/n/m/t/nova-2800-w-professional-nhp-8220-original-imafmvwfhmzsxdrw.jpeg?q=70",
+          "rating": {
+            "rate": 4.0,
+            "count": 45
+          }
+        },
+        {
+          "id": "product6",
+          "title": "Portable 300 mm Ultra High Speed 3 Blade Table Fan",
+          "price": 1199,
+          "description": "Table Fan. Perfect size fan for use on a table, desk or in an RV...",
+          "category": "Table Fans",
+          "image": "https://rukminim1.flixcart.com/image/150/150/kk01pjk0/fan/d/d/l/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg?q=70",
+          "rating": {
+            "rate": 4.3,
+            "count": 80
+          }
+        },
+        {
+          "id": "product7",
+          "title": "boAt Rockerz 235v2 with ASAP charging Version 5.0 Bluetooth Headset",
+          "price": 1199,
+          "description": "Let music brighten up your mood anytime...",
+          "category": "Headphones",
+          "image": "https://rukminim1.flixcart.com/image/150/150/kcgk1ow0/headphone/n/u/a/235v2-fast-charging-boat-original-imaftk6us4af7bca.jpeg?q=70",
+          "rating": {
+            "rate": 4.4,
+            "count": 140
+          }
+        },
+      
+      
+      
       {
         "id": "1",
         "title": "Evo Pro Bluetooth Controller",
@@ -20,6 +108,7 @@
           "count": 120
         }
       },
+      
       {
         "id": "2",
         "title": "Mens Casual Premium Slim Fit T-Shirts",
